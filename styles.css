@@ -2,9 +2,42 @@ h1 {
     max-width: 36px;
     color: #33485e
 }
- 
+
 
 img {
     max-width:300px;
     width: 100%;
+}
+
+p {
+  font-family: sans-serif , Rotis sans-serif;
+}
+
+p{
+  font-family: sans-serif , Microsoft sans-serif;
+}
+
+section {
+  width: 100px;
+  height:100px;
+}
+
+.red {
+  background-color: #ED0000
+}
+
+.black {
+  background-color: #000000
+}
+
+.blue {
+  background-color: #002AE8
+}
+
+.gray {
+  background-color: #757575
+}
+
+.white {
+  background-color: #FFFFFF
 }
